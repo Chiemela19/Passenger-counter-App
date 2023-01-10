@@ -1,4 +1,4 @@
-# cV6eDMhw
+Paseenger's counter App
 
 Quick start:
 
